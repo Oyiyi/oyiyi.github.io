@@ -4,24 +4,25 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-main:
+main:  
+
+  - title: "Projects Portfolio"
+    url: /portfolio/
+
+  - title: "Competitions"
+    url: /competitions/
+
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Coursework"
+    url: /coursework/
         
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "Leadership in Finance"
+    url: /leadership/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
