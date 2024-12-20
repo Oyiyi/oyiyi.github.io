@@ -7,7 +7,7 @@
 main:  
 
   - title: "Project Portfolios"
-    url: /project_portfolios/
+    url: /project-portfolios/
 
   - title: "Competitions"
     url: /competitions/
