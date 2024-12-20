@@ -6,8 +6,8 @@
 
 main:  
 
-  - title: "Projects Portfolio"
-    url: /portfolio/
+  - title: "Project Portfolios"
+    url: /project_portfolios/
 
   - title: "Competitions"
     url: /competitions/
@@ -24,5 +24,5 @@ main:
   - title: "Leadership in Finance"
     url: /leadership/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
