@@ -6,11 +6,8 @@
 
 main:  
 
-  - title: "Project Portfolios"
-    url: /project-portfolios/
-
-  - title: "Competitions"
-    url: /competitions/
+  - title: "Portfolios & Competitions"
+    url: /portfolios-competitions/
 
   - title: "Publications"
     url: /publications/

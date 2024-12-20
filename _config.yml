@@ -40,8 +40,8 @@ author:
   scopus           : # URL
 
   # Repositories and software development
-  github           : "academicpages"
-  kaggle           : # Username  
+  # github           : "academicpages"
+  # kaggle           : # Username  
 
   # Social media
   linkedin         : # Username
@@ -185,16 +185,13 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  competitions:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   coursework:
     output: true
     permalink: /:collection/:path/
-  project-portfolios:
+  portfolios-competitions:
     output: true
     permalink: /:collection/:path/
   talks:
