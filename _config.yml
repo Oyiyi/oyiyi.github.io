@@ -193,7 +193,7 @@ collections:
     permalink: /:collection/:path/
   portfolios-competitions:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:name/
   talks:
     output: true
     permalink: /:collection/:path/
