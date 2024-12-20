@@ -237,10 +237,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _project_portfolios
+  # _portfolios_competitions
   - scope:
       path: ""
-      type: portfolio
+      type: portfolios_competitions
     values:
       layout: single
       author_profile: true
