@@ -2,7 +2,6 @@
 title: "Portfolio item number 1"<br/>
 excerpt: "Short description of portfolio item number 1<br/>
 <img src='/images/AGI_ft_rag.png'>"<br/>
-[Github Repo](https://github.com/Dako2/hillsborough)
 collection: portfolio
 ---
 
