@@ -1,8 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1. 
+title: "LLM Fine-tuning and RAG Hackathon"
+excerpt: "Our team was the winner of the “LLM Fine-tuning and RAG Hackathon” held at AGI House, Hillsborough, CA, 01/13/2024
+Teammates: Wei Wu, Qi Tang, Ankit Shah, Aastha Singh 
+Sponsor and Judges: Together.ai, Langchain, weights&biases
+[Github Repo] 'https://github.com/Dako2/hillsborough'
 <img src='/images/AGI_ft_rag.png'>"
-github_repo: "https://github.com/Dako2/hillsborough"
+
+
 slidesurl: "http://oyiyi.github.io/files/Chatea -- Hillsborough TogetherAi Hackathon.pdf"
 collection: portfolio
 ---
