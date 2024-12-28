@@ -21,14 +21,14 @@ repository               : "oyiyi/oyiyi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "image/hs.png"
+  name             : "Yi Han"
+  # pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "California, USA"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "Peking University, University of Southern California"
+  # uri              : # URL
+  email            : "yihan7206@gmail.com" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
