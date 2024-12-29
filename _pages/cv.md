@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Professional Experience & Academic Coursework"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
