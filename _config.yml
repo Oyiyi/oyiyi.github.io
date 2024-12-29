@@ -21,7 +21,7 @@ repository               : "oyiyi/oyiyi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image/hs.png"
+  avatar           : "images/hs.png"
   name             : "Yi Han"
   # pronouns         : # example: "she/her"  
   bio              : "AI for Finance"
