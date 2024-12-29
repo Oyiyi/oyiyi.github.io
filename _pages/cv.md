@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Professional Experience & Academic Coursework"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,28 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S., Computer Science, AI/NLP, Georgia Institue of Technology (onging)
+* M.S., STEM, Financial Mathematics, University of Southern California
+* B.S., Economics & Financial Mathematics, Peking University
 
-Work experience
+Select Coursework
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* CS 7643: Deep Learning, Georgia Institute of Technology, College of Computing
+* CS 6601: Artificial Intelligence, Georgia Institute of Technology, College of Computing
+* CS 7646: Machine Learning for Trading, Georgia Institute of Technology, College of Computing
+* CS 7650: Natural Language Processing, Georgia Institute of Technology, College of Computing
+* CS 8803 O21: GPU Hardware and Software, Georgia Institute of Technology, College of Computing
+* Mathematical foundation of reinforcement learning, Department of Artificial Intelligence in the School of Engineering at Westlake University
+* Time Series Forecasting, University of Southern California
+* Quantitative Methods, University of Southern California
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Professional Experience & Leadership
+======
+* FinTech - Strategic Finance
+* FinTech - Consulting
   
-Skills
+<!--Skills
 ======
 * Skill 1
 * Skill 2
@@ -61,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams-->
