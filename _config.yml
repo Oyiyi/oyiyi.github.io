@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yi's Website"
 title_separator          : "-"
 name                     : &name "Yi Han"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "oyiyi/oyiyi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/hs.png"
+  avatar           : "profile.png"
   name             : "Yi Han"
   # pronouns         : # example: "she/her"  
   bio              : "AI for Finance"
