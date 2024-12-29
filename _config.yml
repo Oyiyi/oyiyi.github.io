@@ -24,9 +24,9 @@ author:
   avatar           : "image/hs.png"
   name             : "Yi Han"
   # pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "AI for Finance"
   location         : "California, USA"
-  employer         : "Peking University, University of Southern California"
+  employer         : "Peking University"
   # uri              : # URL
   email            : "yihan7206@gmail.com" 
 
