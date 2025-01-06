@@ -9,7 +9,8 @@ redirect_from:
 
 I graduated from Peking University for my Bachelor Degree in Finance and Quantitative Method, and completed my Master Degree at University of Southern California in Financial Mathematics. Currently I’m studying at Master of Computer Science Program at Georgia Institute of Technology.
 
-Research Interest:
+More:
+Coming soon!
 ======
 xx
 

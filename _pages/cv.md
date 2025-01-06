@@ -19,20 +19,21 @@ Select Coursework
 ======
 * CS 7643: Deep Learning, Georgia Institute of Technology, College of Computing
 * CS 6601: Artificial Intelligence, Georgia Institute of Technology, College of Computing
-* CS 7646: Machine Learning for Trading, Georgia Institute of Technology, College of Computing
-* CS 7650: Natural Language Processing, Georgia Institute of Technology, College of Computing
-* CS 8803 O21: GPU Hardware and Software, Georgia Institute of Technology, College of Computing
 * Mathematical foundation of reinforcement learning, Department of Artificial Intelligence in the School of Engineering at Westlake University
 * Time Series Forecasting, University of Southern California
 * Quantitative Methods, University of Southern California
 
 Professional Experience & Leadership
 ======
-* FinTech - Strategic Finance
-* FinTech - Consulting
+* FinTech - Strategic Finance Manager
+* FinTech - Valuation Consulting
   
 <!--Skills
 ======
+* CS 7646: Machine Learning for Trading, Georgia Institute of Technology, College of Computing
+* CS 7650: Natural Language Processing, Georgia Institute of Technology, College of Computing
+* CS 8803 O21: GPU Hardware and Software, Georgia Institute of Technology, College of Computing
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
