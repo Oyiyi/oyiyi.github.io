@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S., Computer Science, AI/NLP, Georgia Institue of Technology (onging)
+* M.S., Computer Science, AI/NLP, Georgia Institute of Technology (onging)
 * M.S., STEM, Financial Mathematics, University of Southern California
 * B.S., Economics & Financial Mathematics, Peking University
 
