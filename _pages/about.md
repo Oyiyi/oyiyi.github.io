@@ -6,8 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Over the past years, I have gained professional experience in finance, working in Los Angeles and the Bay Area, California. My focus has been on consulting, strategic finance, partnerships, and the FinTech industry. My day-to-day work involves extensive cross-functional collaboration and strategic decision-making with the executive team.
 
-I graduated from Peking University for my Bachelor Degree in Finance and Quantitative Method, and completed my Master Degree at University of Southern California in Financial Mathematics. Currently I’m studying at Master of Computer Science Program at Georgia Institute of Technology.
+Currently, I am dedicating my time to the fields of LLM x finance, exploring how AI-driven technologies can enhance decision-making, risk assessment, and operational efficiency in the finance industry. I am particularly interested in developing and researching LLM-based agents and agentic workflows that serve as trustworthy, secure, and private tools for financial applications. 
+
+I earned my Bachelor's degree in Finance and Quantitative Methods from Peking University and my Master's degree in Financial Mathematics from the University of Southern California. Currently, I am pursuing a Master’s in Computer Science at the Georgia Institute of Technology.
 
 More:
 Coming soon!
