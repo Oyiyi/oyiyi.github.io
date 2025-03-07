@@ -9,24 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* M.S., Computer Science, AI/NLP, Georgia Institute of Technology (ongoing)
-* M.S., STEM, Financial Mathematics, University of Southern California
-* B.S., Economics & Financial Mathematics, Peking University
-
-Select Coursework
-======
-* CS 7643: Deep Learning, Georgia Institute of Technology, College of Computing
-* CS 6601: Artificial Intelligence, Georgia Institute of Technology, College of Computing
-* Mathematical foundation of reinforcement learning, Department of Artificial Intelligence in the School of Engineering at Westlake University
-* Time Series Forecasting, University of Southern California
-* Quantitative Methods, University of Southern California
-
-Professional Experience & Leadership
+Professional Leadership
 ======
 * FinTech - Strategic Finance Manager
 * FinTech - Valuation Consulting
+
+Education
+======
+* B.S., Economics & Financial Mathematics, Peking University
+* M.S., STEM, Financial Mathematics, University of Southern California
+* M.S., Computer Science, AI/NLP, Georgia Institute of Technology
+
+Select Coursework Focus
+======
+* Current Paper Focus: Agent in Finance
+* Deep Learning, Artificial Intelligence, Mathematical foundation of reinforcement learning, Time Series Forecasting, Quantitative Methods, etc.
   
 <!--Skills
 ======
