@@ -1,9 +1,9 @@
 ---
-title: "Exploring the Limits of Fine-Tuning in Language Adaptation for Large"
+title: "Exploring the Limits of Fine-Tuning in Language Adaptation for Large Language Models"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-04-files-Exploring-the-Limits-of-Fine-Tuning-in-Language-Adaptation-for-Large
-excerpt: 'Large Language Models have enabled new applications in natural language tasks, but training them from scratch is computationally expensive due to their size and data requirements. This work fine-tunes English-based models for Chinese and Turkish Q&A tasks using Parameter Efficient Fine-Tuning (PEFT) techniques like LoRA and QLoRA, achieving memory optimization with two 3090 GPUs.'
+excerpt: 'We were among the earliest to fine-tune LLaMA 3 for multilingual question answering (Q&A) tasks. In this work, we adapt English-pretrained LLMs to Chinese and Turkish Q&A through Parameter-Efficient Fine-Tuning (PEFT) techniques such as LoRA and QLoRA. Our method enables memory-efficient training on just two NVIDIA 3090 GPUs, showcasing effective cross-lingual transfer with constrained hardware resources.'
 date: 2024-04-30
 # slidesurl: 'http://oyiyi.github.io/files/slides1.pdf'
 paperurl: 'http://oyiyi.github.io/files/Exploring the Limits of Fine-Tuning in Language Adaptation for Large.pdf'
