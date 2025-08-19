@@ -2,7 +2,7 @@
 title: "FinTagging: An LLM-ready Benchmark for Extracting and Structuring Financial Information"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-05-files-FinTagging: An LLM-ready Benchmark for Extracting and Structuring Financial Information
+permalink: /publication/2025-05-files-FinTagging-An LLM-ready Benchmark for Extracting and Structuring Financial Information
 excerpt: 'FINTAGGING, the first full-scope, table-aware XBRL benchmark designed to evaluate the structured information extraction and semantic alignment capabilities of large language models (LLMs) in the context of XBRL-based financial reporting.'
 date: 2025-05-27
 # slidesurl: 'http://oyiyi.github.io/files/slides1.pdf'

@@ -7,6 +7,7 @@ excerpt: 'We were among the earliest to fine-tune LLaMA 3 for multilingual quest
 date: 2024-04-30
 # slidesurl: 'http://oyiyi.github.io/files/slides1.pdf'
 paperurl: 'http://oyiyi.github.io/files/Exploring the Limits of Fine-Tuning in Language Adaptation for Large.pdf'
+arxivurl: 'https://arxiv.org/abs/2505.20650'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 The emergence of Large Language Models over the past few years has enabled new applications of natural language tasks, specifically in the field of language adaptation. It is computationally expensive to train new Large Language Models from scratch due to the billions of parameters in these state of the art models and the scale of training data.
