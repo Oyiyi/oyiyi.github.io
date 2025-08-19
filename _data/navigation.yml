@@ -21,8 +21,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Professional & Coursework"
-    url: /cv/
+  # - title: "Professional & Coursework"
+  #   url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
