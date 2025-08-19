@@ -1,0 +1,13 @@
+---
+title: "Reducing Hallucinations in Mission-Critical Generative AI Applications - A Fact-Check Multi-Agents Solution"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-04-files-fact-checking-agent
+excerpt: 'Deploying large language models (LLMs) and agents in critical and sensitive domains, such as cyberphysical systems (CPS), finance, healthcare, or national security, introduces significant risks. A single hallucination, misalignment, or factual inconsistency can distort the entire reasoning process, propagating errors across agents and leading to compounding inaccuracies that can compromise decisions causing harm. To address these challenges, we propose a novel LLM multi-agent system that enhances decision-making by reducing factual errors and subjective misalignments in interconnected workflows. Furthermore, we introduce an end-to-end factuality benchmark and dataset construction framework, adaptable across domains. This benchmark allows organizations to assess the factual accuracy and trustworthiness of their existing LLM-based agentic system, identify weaknesses, and refine AI-driven decision-making processes in critical applications.'
+date: 2025-04-29
+# slidesurl: 'http://oyiyi.github.io/files/slides1.pdf'
+# paperurl: 'http://oyiyi.github.io/files/Exploring the Limits of Fine-Tuning in Language Adaptation for Large.pdf'
+# arxivurl: 'https://arxiv.org/abs/2502.08127'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+Deploying large language models (LLMs) and agents in critical and sensitive domains, such as cyberphysical systems (CPS), finance, healthcare, or national security, introduces significant risks. A single hallucination, misalignment, or factual inconsistency can distort the entire reasoning process, propagating errors across agents and leading to compounding inaccuracies that can compromise decisions causing harm. To address these challenges, we propose a novel LLM multi-agent system that enhances decision-making by reducing factual errors and subjective misalignments in interconnected workflows. Furthermore, we introduce an end-to-end factuality benchmark and dataset construction framework, adaptable across domains. This benchmark allows organizations to assess the factual accuracy and trustworthiness of their existing LLM-based agentic system, identify weaknesses, and refine AI-driven decision-making processes in critical applications.
