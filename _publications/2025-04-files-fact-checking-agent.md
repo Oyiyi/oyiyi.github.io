@@ -1,5 +1,5 @@
 ---
-title: "Reducing Hallucinations in Mission-Critical Generative AI Applications - A Fact-Check Multi-Agents Solution"
+title: "Reducing Hallucinations in Mission-Critical Generative AI Applications - A Multi-Agent Fact-Checking Solution for Financial Domains"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-04-files-fact-checking-agent
