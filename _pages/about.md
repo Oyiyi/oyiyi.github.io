@@ -10,11 +10,6 @@ I bring 8+ years of executive-facing level business operation experience (GTM & 
 
 I advocate for an industry-research co-design approach. Looking ahead to the autonomous agent era, my current research explores LLM & agentic workflows and reinforcement learning, with a focus on benchmarking and real-world business applications.
 
-More:
-Coming soon!
-======
-xx
-
 <!--Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
