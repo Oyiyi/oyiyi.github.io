@@ -6,15 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I bring 8+ years of professional finance experience in California across consulting, in-house finance, strategic finance, partnerships, and FinTech, working closely with CFOs and executive teams on cross-functional decision-making.
+I bring 8+ years of executive-facing level business operation experience (GTM & Finance-focused) across in-house strategy (Meta & FinTechs) and external consulting (KPMG Consulting).
 
-I’ve seen how companies bleed millions when finance teams overlook hidden errors, risks, and opportunities to act as true strategic partners to the CEO.
-
-I’m building a solution: agents that handle 80% of the finance team’s workload and 100% of routine risk control, with humans kept in the loop.
-
-Looking ahead to the autonomous agent era, my research focuses on LLM x Finance agentic workflows and RL benchmarking for training, with an emphasis on building trustworthy, secure systems that minimize hallucination for high-stake financial domains real-world usages.
-
-I earned my Bachelor's degree in Finance and Quantitative Methods from Peking University and my Master's degree in Financial Mathematics from the University of Southern California. Currently, I am pursuing a Master’s in Computer Science at the Georgia Institute of Technology.
+I advocate for an industry-research co-design approach. Looking ahead to the autonomous agent era, my current research explores LLM & agentic workflows and reinforcement learning, with a focus on benchmarking and real-world business applications.
 
 More:
 Coming soon!
