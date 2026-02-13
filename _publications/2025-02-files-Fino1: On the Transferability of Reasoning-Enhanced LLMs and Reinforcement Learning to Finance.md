@@ -1,5 +1,5 @@
 ---
-title: "Fino1: On the Transferability of Reasoning-Enhanced LLMs and Reinforcement Learning to Finance"
+title: "Fin-o1: On the Transferability of Reasoning-Enhanced LLMs and Reinforcement Learning to Finance"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-files-fino1-on-the-transferability-of-reasoning-enhanced-llms-and-reinforcement-learning-to-finance
