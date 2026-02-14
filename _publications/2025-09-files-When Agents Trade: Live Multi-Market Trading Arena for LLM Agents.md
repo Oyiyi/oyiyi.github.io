@@ -8,7 +8,7 @@ date: 2025-09-01
 venue: 'ACM TheWebConf 2026 Industry Accepted'
 # slidesurl: 'http://oyiyi.github.io/files/slides1.pdf'
 # paperurl: 'http://oyiyi.github.io/files/When Agents Trade: Live Multi-Market Trading Arena for LLM Agents.pdf'
-arxivurl: 'https://arxiv.org/abs/2510.11695'
+arxivurl: 'https://arxiv.org/pdf/2510.11695'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 Although Large Language Model (LLM)-based agents are increasingly used in financial trading, it remains unclear whether they
