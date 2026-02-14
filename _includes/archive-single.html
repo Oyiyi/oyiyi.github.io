@@ -46,7 +46,7 @@
           <!--<p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>-->
           <p>Complete: {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}{% if post.venue %}, <i>{{ post.venue }}</i>{% endif %}</p>
           {% if post.arxivurl %}
-            <p><a href="{{ post.arxivurl }}" target="_blank" rel="noopener">Check out Full Paper on arXiv</a></p>
+            <p><a href="{{ post.arxivurl }}" target="_blank" rel="noopener">Full paper on arXiv</a></p>
           {% endif %}
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
