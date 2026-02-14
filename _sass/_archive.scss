@@ -66,6 +66,23 @@
   }
 }
 
+/* Smaller fonts for publications */
+.publications-page .archive__item {
+  font-size: $type-size-6;
+
+  .archive__item-title {
+    font-size: $type-size-5;
+  }
+
+  .archive__item-excerpt {
+    font-size: $type-size-7;
+  }
+
+  p {
+    font-size: $type-size-6;
+  }
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
