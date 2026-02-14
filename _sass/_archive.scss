@@ -68,23 +68,23 @@
 
 /* Smaller fonts for publications */
 .publications-page .archive__item {
-  font-size: 0.55em;
+  font-size: 0.875em;
 
   .archive__item-title {
-    font-size: 0.7em;
+    font-size: 1.1em;
   }
 
   .archive__item-excerpt {
-    font-size: 0.55em;
+    font-size: 0.85em;
   }
 
   p {
-    font-size: 0.55em;
-    margin-bottom: 0.3em;
+    font-size: 0.85em;
+    margin-bottom: 0.4em;
   }
 
   a {
-    font-size: 0.55em;
+    font-size: inherit;
   }
 }
 

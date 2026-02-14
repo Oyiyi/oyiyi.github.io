@@ -44,7 +44,7 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <!--<p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>-->
-          <p>Complete: {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}{% if post.venue %}, <i>{{ post.venue }}</i>{% endif %}</p>
+          <p>{% if post.venue %}<i>{{ post.venue }}</i>; {% endif %}{{ post.date | default: "1900-01-01" | date: "%b %Y" }} complete</p>
           {% if post.arxivurl %}
             <p><a href="{{ post.arxivurl }}" target="_blank" rel="noopener">Full paper on arXiv</a></p>
           {% endif %}
