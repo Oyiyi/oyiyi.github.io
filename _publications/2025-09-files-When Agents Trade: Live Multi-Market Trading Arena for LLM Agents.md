@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/2025-09-files-when-agents-trade-live-multi-market-trading-arena-for-llm-agents
 excerpt: 'Although Large Language Model (LLM)-based agents are increasingly used in financial trading, it remains unclear whether they can reason and adapt in live markets, as most studies test models instead of agents, cover limited periods and assets, and rely on unverified data. To address these gaps, we introduce Agent Market Arena (AMA), the first lifelong, real-time benchmark for evaluating LLM-based trading agents across multiple markets. AMA integrates verified trading data, expert-checked news, and diverse agent architectures within a unified trading framework, enabling fair and continuous comparison under real conditions.'
 date: 2025-09-01
+venue: 'ACM TheWebConf 2026 Industry Accepted'
 # slidesurl: 'http://oyiyi.github.io/files/slides1.pdf'
 # paperurl: 'http://oyiyi.github.io/files/When Agents Trade: Live Multi-Market Trading Arena for LLM Agents.pdf'
 arxivurl: 'https://arxiv.org/abs/2510.11695'

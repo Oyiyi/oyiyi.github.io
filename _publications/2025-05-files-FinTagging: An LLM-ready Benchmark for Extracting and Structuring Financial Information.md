@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/2025-05-files-fintagging-an-llm-ready-benchmark-for-extracting-and-structuring-financial-information
 excerpt: 'FINTAGGING, the first full-scope, table-aware XBRL benchmark designed to evaluate the structured information extraction and semantic alignment capabilities of large language models (LLMs) in the context of XBRL-based financial reporting.'
 date: 2025-05-27
+venue: 'ACL ARR 2026 January Submission'
 # slidesurl: 'http://oyiyi.github.io/files/slides1.pdf'
 # paperurl: 'http://oyiyi.github.io/files/FinTagging-An LLM-ready Benchmark for Extracting and Structuring Financial Information.pdf'
 arxivurl: 'https://arxiv.org/abs/2505.20650'
