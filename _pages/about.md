@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I bring 8+ years of executive-facing level business operation experience (GTM & Finance-focused) across in-house strategy (Meta & FinTechs) and external consulting (KPMG Consulting).
+I bring 8+ years of finance and business operations partnering with business partners across in-house roles (GTM Finance at Meta and fintechs) and external consulting at KPMG.
 
-I advocate for an industry-research co-design approach. Looking ahead to the autonomous agent era, my current research explores LLM & agentic workflows and reinforcement learning, with a focus on benchmarking and real-world business applications.
+I advocate for an industry + research co-design approach. As we move toward the autonomous agent era in Finance, my current research focuses on LLMs, agentic workflows, and reinforcement learning, with a focus on examining where models & agents stand today and how to close the gap for real-world business applications.
 
 <!--Getting started
 ======
