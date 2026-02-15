@@ -8,7 +8,7 @@ date: 2025-09-19
 venue: 'CVPR 2026 Conference Submission'
 # slidesurl: 'http://oyiyi.github.io/files/slides1.pdf'
 # paperurl: 'http://oyiyi.github.io/files/FinCriticalED.pdf'
-arxivurl: 'https://arxiv.org/abs/2511.14998'
+arxivurl: 'https://arxiv.org/pdf/2511.14998'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 We introduce FinCriticalED (Financial Critical Error Detection), a visual benchmark for evaluating OCR and vision language models on financial documents at the fact level. Financial documents contain visually dense and table heavy layouts where numerical and temporal information is tightly coupled with structure. In high stakes settings, small OCR mistakes such as sign inversion or shifted dates can lead to materially different interpretations, while traditional OCR metrics like ROUGE and edit distance capture only surface level text similarity.
